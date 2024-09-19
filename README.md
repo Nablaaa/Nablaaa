@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision in 3D**
 
-- 🌱 I’m currently learning **Deep Reinforcement Learning**
+- 🌱 I’m currently learning **Deep Reinforcement Learning (gymnasium, stable baselines) and Open3D**
 
 - 💬 Ask me about **my projects**
 
