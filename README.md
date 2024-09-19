@@ -19,6 +19,7 @@
 <p align="left"> 
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+
 ---
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
@@ -28,6 +29,7 @@
 <a href="https://de.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
   <img src="media/logos/sql.svg" alt="sql" width="40" height="40"/> 
 </a>
+
 ---
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="media/logos/raspberrypi.png" alt="arduino" width="40" height="40"/></a>
@@ -53,11 +55,11 @@
 ---
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+
 ---
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
   <img src="media/logos/matplotlib.svg" alt="matplotlib" width="40" height="40"/> 
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="media/logos/seaborn.svg" alt="opencv" width="40" height="40"/> </a> 
+</a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="media/logos/seaborn.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
   <img src="media/logos/streamlit.svg" alt="streamlit" width="40" height="40"/> 
@@ -66,7 +68,6 @@
   <img src="media/logos/html.svg" alt="html" width="40" height="40"/> </a>
 
 ---
-
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
   <img src="media/logos/blender.svg" alt="blender" width="40" height="40"/> 
 </a>
