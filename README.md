@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UC4IpRWxs98j-Veit9gI-bhw" target="blank"><img align="center" src="media/logos/YouTube_icon.svg" alt="https://www.youtube.com/channel/UC4IpRWxs98j-Veit9gI-bhw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eric-schmidt-nablaaa/" target="blank"><img align="center" src="media/logos/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/eric-schmidt-nablaaa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eric-schmidt-nablaaa/" target="blank"><img align="center" src="media/logos/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/eric-schmidt-nablaaa/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
