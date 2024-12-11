@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nablaaa&label=Profile%20views&color=0e75b6&style=flat" alt="nablaaa" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision in 3D**
+- 🔭 I’m currently working on **Deep Reinforcement Learning in Unity**
 
-- 🌱 I’m currently learning **Deep Reinforcement Learning (gymnasium, stable baselines) and Open3D**
+- 🌱 I’m currently learning **C#, Unity and manim**
 
 - 💬 Ask me about **my projects**
 
@@ -55,6 +55,10 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://stable-baselines.readthedocs.io/en/master/" target="_blank" rel="noreferrer"> <img src="https://stable-baselines.readthedocs.io/en/master/_static/logo.png" alt="stable_baselines" width="40" height="40"/> </a> 
+
+
+
 
 ---
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
